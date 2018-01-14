@@ -1,0 +1,10 @@
+Jeffrey Tsang and Michael Huang
+Jet253 and mh999
+12/8/16
+
+Sound extension- Everytime the ball hits a brick, a sound is created. 
+In addition,we varied the sounds. I placed sound objects in a list and used random module to vary the sounds played.
+
+In addition , we created a countdown clock in our breakout module. Ex: 3,2,1
+This was done in a countdown helper function.
+
